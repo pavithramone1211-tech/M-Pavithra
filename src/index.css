@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-mono: "Courier New", Courier, monospace;
+  --font-sans: "Inter", "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  background-color: #050505;
+  color: #fff;
+  overflow: hidden; /* Recommended by design HTML */
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Radio",
+  "description": "Play classic Snake in a glowing neon terminal while streaming AI-generated cyber-beats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
